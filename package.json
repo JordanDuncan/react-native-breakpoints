@@ -1,0 +1,27 @@
+{
+  "name": "react-native-breakpoints",
+  "version": "1.0.0",
+  "description": "Simple device size breakpoints for React Native apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordanDuncan/react-native-breakpoints.git"
+  },
+  "keywords": [
+    "reactnative",
+    "react",
+    "breakpoints",
+    "mobile",
+    "ios",
+    "android"
+  ],
+  "author": "Jordan Duncan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JordanDuncan/react-native-breakpoints/issues"
+  },
+  "homepage": "https://github.com/JordanDuncan/react-native-breakpoints#readme"
+}
