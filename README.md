@@ -1,6 +1,9 @@
 # react-native-breakpoints
 ### 📱 📐 Simple device size breakpoints for React Native apps.
 
+[![npm version](https://badge.fury.io/js/react-native-breakpoints.svg)](https://badge.fury.io/js/react-native-breakpoints)
+![GitHub](https://img.shields.io/github/license/jordanduncan/react-native-breakpoints.svg)
+
 This module creates breakpoints based on device width. 
 
 Breakpoint | Example Devices
