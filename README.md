@@ -4,7 +4,7 @@
 This module creates breakpoints based on device width. 
 
 Breakpoint | Example Devices
-- | -
+-- | --
 Small | iPhone 4/5/SE/etc
 Medium | iPhone 6/7/8/X, Samsung Galaxy S9
 Large | iPhone 6+/7+/8+, Google Pixel XL, Samsung Note 8
