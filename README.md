@@ -17,7 +17,7 @@ npm i react-native-breakpoints
 
 ## Usage
 
-```javascript
+```jsx
 import * as Breakpoints from 'react-native-breakpoints';
 
 export YourComponent extends React.Component {
